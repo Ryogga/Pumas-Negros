@@ -1,2 +1,2 @@
 # Pumas-Negros 
-Mi comida favorita son las Hamburguesas 
+Mi comida favorita son las Lasaña
