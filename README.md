@@ -20,7 +20,7 @@ Mi nombre es María Alejandra Ruiz Lozada, soy estudiante del programa de Ingeni
 ### sound designer - Neiva Huila
 Mi nombre es Jaime Leandro Vera Rivera, soy estudiante del progrma de Ingneria Multimedia, estoy cursando el séptimo semtre y Espero poder aprender mucho de todos ustedes. en esta actividad desempeñare el rol sound designer
 
-# Puma 4
+# Puma 5
 ## Nicolas Parra Renza
 ![Nicolas Parra Renza](/Fotos%20grupo/DSC_9057.jpg "Nicolas Parra Renza")
 ### Game Artist - Neiva, Huila
