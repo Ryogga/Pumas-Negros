@@ -5,5 +5,5 @@ Mi comida favorita son las Lasaña
 ## Maria Alejandra Ruiz Lozada
 ![Maria Alejandra Ruiz!](/Fotos%20grupo/InShot_20211009_201633226.jpg "Alejandra Ruiz")
 ### Game Designer - Neiva Huila
-Mi nombre es María Alejandra Ruiz Lozada, soy estudiante del programa de Ingeniería Multimedia, estoy cursando el séptimo semestre y me emociona que esté curso sea colaborativo para aprender mucho de ustedes, en esta actividad mi rol será de Game Designer
+Mi nombre es María Alejandra Ruiz Lozada, tengo 23 años, nací en Bogotá y actualmente vivo en la ciudad de Neiva, soy estudiante del programa de Ingeniería Multimedia, estoy cursando el séptimo semestre de la carrera y me emociona ser la encargada de definir la mecanica, reglas y experiencia del juego. 
 
