@@ -13,3 +13,8 @@ Mi comida favorita son las Lasaña
 Mi nombre es María Alejandra Ruiz Lozada, soy estudiante del programa de Ingeniería Multimedia, estoy cursando el séptimo semestre y me emociona que esté curso sea colaborativo para aprender mucho de ustedes, en esta actividad mi rol será de Game Designer
 
 >>>>>>> 60f5afe7ddd29b989cb57c15ac2fac7ea150a8e3
+# Puma-3 
+## jaime leandro Vera Rivera
+![Jaime Leandro Vera Rivera!](/Fotos%20grupo/Leandro.jpg "Leandro Vera")
+### sound designer - Neiva Huila
+Mi nombre es Jaime Leandro Vera Rivera, soy estudiante del progrma de Ingneria Multimedia, estoy cursando el séptimo semtre y Espero poder aprender mucho de todos ustedes. en esta actividad desempeñare el rol sound designer
