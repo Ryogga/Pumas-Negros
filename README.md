@@ -1,8 +1,10 @@
-<<<<<<< HEAD
 # Puma-2 
 Mi comida favorita son las Hamburguesas 
 ## Karen Lizeth Giraldo Vargas
-=======
+![Karen Lizeth Giraldo Vargas!](/Karen-Giraldo/WhatsApp%20Image%202025-02-07%20at%2010.32.20%20PM%20(1).jpeg "Karen Giraldo")
+### Game Illustrator - Bogotá DC
+Mi nombre es Karen Lizeth Giraldo Vargas estudiante de Ingeniería Multimedia y actualmente estoy cursando noveno semestre. Es un placer trabajar juntos en este curso, en esta actividad mi rol será de Game Illustrator.
+
 # Pumas-Negros 
 Mi comida favorita son las Lasaña
 
@@ -12,7 +14,6 @@ Mi comida favorita son las Lasaña
 ### Game Designer - Neiva Huila
 Mi nombre es María Alejandra Ruiz Lozada, soy estudiante del programa de Ingeniería Multimedia, estoy cursando el séptimo semestre y me emociona que esté curso sea colaborativo para aprender mucho de ustedes, en esta actividad mi rol será de Game Designer
 
->>>>>>> 60f5afe7ddd29b989cb57c15ac2fac7ea150a8e3
 # Puma-3 
 ## jaime leandro Vera Rivera
 ![Jaime Leandro Vera Rivera!](/Fotos%20grupo/Leandro.jpg "Leandro Vera")
